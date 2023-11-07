@@ -115,5 +115,5 @@ void winrt::App4::implementation::MainWindow::CanvasControl_Draw(winrt::Microsof
 ```
 
 실행 화면</br>
-![Image description](./11.PNG)</br>
+![Image description](./1.PNG)</br>
 </br></br></br>
